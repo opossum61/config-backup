@@ -1,0 +1,6 @@
+host server
+  IdentitiesOnly yes
+  hostname 127.0.0.1
+  user amcforum1
+  identityfile C:\Users\abby\.ssh\server.key
+  port 22
